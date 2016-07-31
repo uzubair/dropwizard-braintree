@@ -30,6 +30,10 @@ java -jar target/dropwizard-braintree-1.0-SNAPSHOT.jar server configuration.yml
 
 Once the application starts up, you should be able to open a browser and hit the url, `http://localhost:9500`
 
+### TODO
+
+Use EasyMock to write tests :)
+
 ### Improvements
 1. Introduce Google Guice for Dependency Injection
 2. Implement Logging
