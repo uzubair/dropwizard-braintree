@@ -1,0 +1,10 @@
+http:
+  port: 9500
+  adminPort: 9501
+  rootPath: /service/*  # Default is /*
+
+braintree:
+  environment: sandbox
+  merchantId: # add merchant Id
+  publicKey: # add public key
+  privateKey: # add secret key
