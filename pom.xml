@@ -37,7 +37,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.2.1</version>
                 <configuration>
-                    <mainClass>net.uzubair.WebService</mainClass>
+                    <mainClass>com.usmanzubair.WebService</mainClass>
                     <arguments>
                         <argument>server</argument>
                         <argument>configuration.yml</argument>
